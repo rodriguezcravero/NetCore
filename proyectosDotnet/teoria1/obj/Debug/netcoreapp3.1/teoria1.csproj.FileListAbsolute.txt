@@ -1,0 +1,13 @@
+/home/ignacio/Documentos/proyectosDotnet/teoria1/bin/Debug/netcoreapp3.1/teoria1
+/home/ignacio/Documentos/proyectosDotnet/teoria1/bin/Debug/netcoreapp3.1/teoria1.deps.json
+/home/ignacio/Documentos/proyectosDotnet/teoria1/bin/Debug/netcoreapp3.1/teoria1.runtimeconfig.json
+/home/ignacio/Documentos/proyectosDotnet/teoria1/bin/Debug/netcoreapp3.1/teoria1.runtimeconfig.dev.json
+/home/ignacio/Documentos/proyectosDotnet/teoria1/bin/Debug/netcoreapp3.1/teoria1.dll
+/home/ignacio/Documentos/proyectosDotnet/teoria1/bin/Debug/netcoreapp3.1/teoria1.pdb
+/home/ignacio/Documentos/proyectosDotnet/teoria1/obj/Debug/netcoreapp3.1/teoria1.csprojAssemblyReference.cache
+/home/ignacio/Documentos/proyectosDotnet/teoria1/obj/Debug/netcoreapp3.1/teoria1.csproj.CoreCompileInputs.cache
+/home/ignacio/Documentos/proyectosDotnet/teoria1/obj/Debug/netcoreapp3.1/teoria1.AssemblyInfoInputs.cache
+/home/ignacio/Documentos/proyectosDotnet/teoria1/obj/Debug/netcoreapp3.1/teoria1.AssemblyInfo.cs
+/home/ignacio/Documentos/proyectosDotnet/teoria1/obj/Debug/netcoreapp3.1/teoria1.dll
+/home/ignacio/Documentos/proyectosDotnet/teoria1/obj/Debug/netcoreapp3.1/teoria1.pdb
+/home/ignacio/Documentos/proyectosDotnet/teoria1/obj/Debug/netcoreapp3.1/teoria1.genruntimeconfig.cache
