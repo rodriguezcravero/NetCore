@@ -11,3 +11,14 @@
 /home/ignacio/Documentos/proyectosDotnet/teoria1/obj/Debug/netcoreapp3.1/teoria1.dll
 /home/ignacio/Documentos/proyectosDotnet/teoria1/obj/Debug/netcoreapp3.1/teoria1.pdb
 /home/ignacio/Documentos/proyectosDotnet/teoria1/obj/Debug/netcoreapp3.1/teoria1.genruntimeconfig.cache
+D:\Facultad\.net\NetCore\proyectosDotnet\teoria1\bin\Debug\netcoreapp3.1\teoria1.exe
+D:\Facultad\.net\NetCore\proyectosDotnet\teoria1\bin\Debug\netcoreapp3.1\teoria1.deps.json
+D:\Facultad\.net\NetCore\proyectosDotnet\teoria1\bin\Debug\netcoreapp3.1\teoria1.runtimeconfig.json
+D:\Facultad\.net\NetCore\proyectosDotnet\teoria1\bin\Debug\netcoreapp3.1\teoria1.runtimeconfig.dev.json
+D:\Facultad\.net\NetCore\proyectosDotnet\teoria1\bin\Debug\netcoreapp3.1\teoria1.dll
+D:\Facultad\.net\NetCore\proyectosDotnet\teoria1\bin\Debug\netcoreapp3.1\teoria1.pdb
+D:\Facultad\.net\NetCore\proyectosDotnet\teoria1\obj\Debug\netcoreapp3.1\teoria1.csprojAssemblyReference.cache
+D:\Facultad\.net\NetCore\proyectosDotnet\teoria1\obj\Debug\netcoreapp3.1\teoria1.AssemblyInfoInputs.cache
+D:\Facultad\.net\NetCore\proyectosDotnet\teoria1\obj\Debug\netcoreapp3.1\teoria1.AssemblyInfo.cs
+D:\Facultad\.net\NetCore\proyectosDotnet\teoria1\obj\Debug\netcoreapp3.1\teoria1.dll
+D:\Facultad\.net\NetCore\proyectosDotnet\teoria1\obj\Debug\netcoreapp3.1\teoria1.pdb

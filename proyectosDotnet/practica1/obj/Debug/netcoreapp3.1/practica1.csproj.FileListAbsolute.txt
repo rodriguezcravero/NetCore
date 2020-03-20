@@ -1,0 +1,11 @@
+D:\Facultad\.net\proyecto1_windows\practica1\bin\Debug\netcoreapp3.1\practica1.exe
+D:\Facultad\.net\proyecto1_windows\practica1\bin\Debug\netcoreapp3.1\practica1.deps.json
+D:\Facultad\.net\proyecto1_windows\practica1\bin\Debug\netcoreapp3.1\practica1.runtimeconfig.json
+D:\Facultad\.net\proyecto1_windows\practica1\bin\Debug\netcoreapp3.1\practica1.runtimeconfig.dev.json
+D:\Facultad\.net\proyecto1_windows\practica1\bin\Debug\netcoreapp3.1\practica1.dll
+D:\Facultad\.net\proyecto1_windows\practica1\bin\Debug\netcoreapp3.1\practica1.pdb
+D:\Facultad\.net\proyecto1_windows\practica1\obj\Debug\netcoreapp3.1\practica1.csprojAssemblyReference.cache
+D:\Facultad\.net\proyecto1_windows\practica1\obj\Debug\netcoreapp3.1\practica1.AssemblyInfoInputs.cache
+D:\Facultad\.net\proyecto1_windows\practica1\obj\Debug\netcoreapp3.1\practica1.AssemblyInfo.cs
+D:\Facultad\.net\proyecto1_windows\practica1\obj\Debug\netcoreapp3.1\practica1.dll
+D:\Facultad\.net\proyecto1_windows\practica1\obj\Debug\netcoreapp3.1\practica1.pdb
