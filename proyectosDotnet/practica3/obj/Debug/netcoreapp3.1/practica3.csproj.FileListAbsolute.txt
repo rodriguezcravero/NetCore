@@ -1,0 +1,13 @@
+D:\Facultad\.net\NetCore\proyectosDotnet\practica3\bin\Debug\netcoreapp3.1\practica3.exe
+D:\Facultad\.net\NetCore\proyectosDotnet\practica3\bin\Debug\netcoreapp3.1\practica3.deps.json
+D:\Facultad\.net\NetCore\proyectosDotnet\practica3\bin\Debug\netcoreapp3.1\practica3.runtimeconfig.json
+D:\Facultad\.net\NetCore\proyectosDotnet\practica3\bin\Debug\netcoreapp3.1\practica3.runtimeconfig.dev.json
+D:\Facultad\.net\NetCore\proyectosDotnet\practica3\bin\Debug\netcoreapp3.1\practica3.dll
+D:\Facultad\.net\NetCore\proyectosDotnet\practica3\bin\Debug\netcoreapp3.1\practica3.pdb
+D:\Facultad\.net\NetCore\proyectosDotnet\practica3\obj\Debug\netcoreapp3.1\practica3.csprojAssemblyReference.cache
+D:\Facultad\.net\NetCore\proyectosDotnet\practica3\obj\Debug\netcoreapp3.1\practica3.csproj.CoreCompileInputs.cache
+D:\Facultad\.net\NetCore\proyectosDotnet\practica3\obj\Debug\netcoreapp3.1\practica3.AssemblyInfoInputs.cache
+D:\Facultad\.net\NetCore\proyectosDotnet\practica3\obj\Debug\netcoreapp3.1\practica3.AssemblyInfo.cs
+D:\Facultad\.net\NetCore\proyectosDotnet\practica3\obj\Debug\netcoreapp3.1\practica3.dll
+D:\Facultad\.net\NetCore\proyectosDotnet\practica3\obj\Debug\netcoreapp3.1\practica3.pdb
+D:\Facultad\.net\NetCore\proyectosDotnet\practica3\obj\Debug\netcoreapp3.1\practica3.genruntimeconfig.cache
