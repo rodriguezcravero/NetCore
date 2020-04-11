@@ -1,0 +1,13 @@
+D:\Facultad\.net\NetCore\proyectosDotnet\typ4\bin\Debug\netcoreapp3.1\typ4.exe
+D:\Facultad\.net\NetCore\proyectosDotnet\typ4\bin\Debug\netcoreapp3.1\typ4.deps.json
+D:\Facultad\.net\NetCore\proyectosDotnet\typ4\bin\Debug\netcoreapp3.1\typ4.runtimeconfig.json
+D:\Facultad\.net\NetCore\proyectosDotnet\typ4\bin\Debug\netcoreapp3.1\typ4.runtimeconfig.dev.json
+D:\Facultad\.net\NetCore\proyectosDotnet\typ4\bin\Debug\netcoreapp3.1\typ4.dll
+D:\Facultad\.net\NetCore\proyectosDotnet\typ4\bin\Debug\netcoreapp3.1\typ4.pdb
+D:\Facultad\.net\NetCore\proyectosDotnet\typ4\obj\Debug\netcoreapp3.1\typ4.csprojAssemblyReference.cache
+D:\Facultad\.net\NetCore\proyectosDotnet\typ4\obj\Debug\netcoreapp3.1\typ4.csproj.CoreCompileInputs.cache
+D:\Facultad\.net\NetCore\proyectosDotnet\typ4\obj\Debug\netcoreapp3.1\typ4.AssemblyInfoInputs.cache
+D:\Facultad\.net\NetCore\proyectosDotnet\typ4\obj\Debug\netcoreapp3.1\typ4.AssemblyInfo.cs
+D:\Facultad\.net\NetCore\proyectosDotnet\typ4\obj\Debug\netcoreapp3.1\typ4.dll
+D:\Facultad\.net\NetCore\proyectosDotnet\typ4\obj\Debug\netcoreapp3.1\typ4.pdb
+D:\Facultad\.net\NetCore\proyectosDotnet\typ4\obj\Debug\netcoreapp3.1\typ4.genruntimeconfig.cache
